@@ -1,6 +1,6 @@
 # 🚀 Job Application Tracker
 
-A full-sauth.pyb application to manage and track job applications efficiently.  
+A full-stack web application to manage and track job applications efficiently.  
 Built using **React (Vite) + Tailwind CSS** for the frontend and **FastAPI** for the backend.
 
 ---
@@ -123,3 +123,5 @@ npm run dev
 ⸻
 
 ⭐ If you like this project
+
+Give it a ⭐ on GitHub!
